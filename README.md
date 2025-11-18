@@ -3,7 +3,7 @@
 A robotics navigation challenge where an autonomous robot (Eebot) traverses a maze-like environment using sensor data and path-planning algorithms.  
 
 <p align="center">
-  <img src="asset/banner/banner9.png" width="100%" alt="Project Banner">
+  <img src="assets/banner/banner9.png" width="100%" alt="Project Banner">
 </p>
 
 ---
